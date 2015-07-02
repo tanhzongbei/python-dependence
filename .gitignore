@@ -1,0 +1,8 @@
+.*
+*.pyc
+*.pyo
+*.log
+build/
+dist/
+kuaipan_python.egg-info/
+!.gitignore
